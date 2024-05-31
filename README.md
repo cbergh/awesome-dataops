@@ -101,13 +101,14 @@ A curated list of awesome DataOps tools.
 *Tools for ensuring data quality.*
 
 * [Cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
-* [Cleanlab](https://github.com/cleanlab/cleanlab) - Data-centric AI tool to detect (non-predefined) issues in ML data like label errors or outliers.
+* [Cleanlab](https://github.com/cleanlab/cleanlab) - Data-centric AI tool to detect (non-predefined) issues in ML data like label errors or outliers.\
+* [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - Data Quality Validation Testing, Anomaly Detection, and Profiling (and End to End Data Journey Observability)
 * [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 * [Deequ](https://github.com/awslabs/deequ) - A library built on top of Apache Spark for measuring data quality in large datasets.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
 * [SodaSQL](https://github.com/sodadata/soda-sql) - Data profiling, testing, and monitoring for SQL accessible data.
-* [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - Data Quality Validation Testing, Anomaly Detection, and Profiling (and End to End Data Journey Observability)
+
 
 ## Data Serialization
 
@@ -235,7 +236,6 @@ A curated list of awesome DataOps tools.
 * [Loki](https://github.com/grafana/loki) - A horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 * [Prometheus](https://github.com/prometheus/prometheus) - A monitoring system and time series database.
 * [Whylogs](https://github.com/whylabs/whylogs) - A tool for creating data logs, enabling monitoring for data drift and data quality issues.
-* [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to End Data Journey Observability and Alerting (and Data Testing/Anomalies/Profiling )
 
 ## Metadata Service
 
